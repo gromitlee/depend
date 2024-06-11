@@ -10,13 +10,13 @@ Resource Depend and Access Management
 ## 安装
 
 ```bash
-go get github.com/gromitlee/depend
+go get github.com/gromitlee/depend/v2
 ```
 
 ## 引入
 
 ```go
-import "github.com/gromitlee/depend"
+import "github.com/gromitlee/depend/v2"
 ```
 
 ## 使用方式1：全局单例

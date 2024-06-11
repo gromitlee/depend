@@ -1,8 +1,8 @@
 package depend
 
 import (
-	"github.com/gromitlee/depend/internal"
-	"github.com/gromitlee/depend/rel"
+	"github.com/gromitlee/depend/v2/internal"
+	"github.com/gromitlee/depend/v2/rel"
 	"gorm.io/gorm"
 )
 

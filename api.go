@@ -3,7 +3,7 @@ package depend
 import (
 	"errors"
 
-	"github.com/gromitlee/depend/rel"
+	"github.com/gromitlee/depend/v2/rel"
 	"gorm.io/gorm"
 )
 

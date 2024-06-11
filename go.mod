@@ -1,4 +1,4 @@
-module github.com/gromitlee/depend
+module github.com/gromitlee/depend/v2
 
 go 1.20
 
